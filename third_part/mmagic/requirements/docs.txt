@@ -1,0 +1,11 @@
+docutils
+modelindex
+myst_parser
+-e git+https://github.com/open-mmlab/pytorch_sphinx_theme.git#egg=pytorch_sphinx_theme
+requests
+sphinx
+sphinx-autoapi
+sphinx-copybutton
+sphinx-notfound-page
+sphinx-tabs
+sphinx_markdown_tables

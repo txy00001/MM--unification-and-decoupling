@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./third_part/mmdeploy",
+        "./third_part/mmdeploy/tools"
+    ]
+}

@@ -1,0 +1,14 @@
+lmdb
+lpips
+mmcv 
+mmdet 
+mmengine
+prettytable
+Pygments
+regex
+scikit-image
+tabulate
+titlecase
+torch
+torchvision
+tqdm
